@@ -1,0 +1,12 @@
+@media (max-width: 380px) {
+    .header_btn_left_txt,
+    .header_btn_right_txt{
+        display: none;
+    }
+    .header_left_button{
+        pad: 15px 16px;
+    }
+    .header_right_button{
+        padding: 13px 16px;
+    }
+}

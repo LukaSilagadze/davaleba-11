@@ -1,0 +1,12 @@
+@media (max-width: 620px) {
+    .container{
+        padding: 20px;
+    }
+    .main{
+        grid-template-columns: 100%;
+    }
+    .card5,
+    .card6{
+        display: none;
+    }
+}
