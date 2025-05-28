@@ -1,4 +1,7 @@
 @media (max-width: 380px) {
+    .container{
+        padding: 8px;
+    }
     .header_btn_left_txt,
     .header_btn_right_txt{
         display: none;
